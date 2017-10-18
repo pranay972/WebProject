@@ -1,2 +1,1 @@
-WBMDX
-\
+**Django based platform for polling**
